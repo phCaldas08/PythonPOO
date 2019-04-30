@@ -31,7 +31,6 @@ while True:
     if(input("Continuar? [s/n]") == "n"):
         break
 
-
 for __p in listPessoa:
     print(__p.getStringPessoa())
 
